@@ -1,3 +1,4 @@
+console.log('Hello scripts');
 function auto() {
   // Wait for 2 seconds
   var timeHarver = 150000;
